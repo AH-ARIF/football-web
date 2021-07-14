@@ -20,7 +20,7 @@ body{
  }
 
  .copa-america:hover {
-     background-color: lightslategrey;   
+     background-color: rgb(108, 166, 224);   
  }
 
  .copa-america-info {
@@ -112,7 +112,6 @@ body{
     margin-top: 0px;
     margin-bottom: 33px;
 }
-
 /*------------------
  players part style ends 
  ---------------------*/
@@ -185,7 +184,7 @@ body{
 
 /*--------------------
  extra part-1 style start 
- ---------------------- */
+ -------------------- */
 
  .club-album {
 
